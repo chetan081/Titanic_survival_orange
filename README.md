@@ -22,5 +22,16 @@ It includes both the Orange workflow and the evaluation report.
 ##  Screenshots
 ![Workflow](screenshots/workflow.png)
 ![Workflow](screenshots/confusion_matrix_knn.png)
+![Workflow](screenshots/confusion_matrix_logistic.png)
+![Workflow](screenshots/confusion_matrix_random_forest.png)
+![Workflow](screenshots/Distribution_sex.png)
+![Workflow](screenshots/Distribution_fare.png)
+![Workflow](screenshots/Distribution_survived.png)
+![Workflow](screenshots/test_score.png)
+![Workflow](screenshots/Roc_analysis.png)
+
+
+
+
 
 
