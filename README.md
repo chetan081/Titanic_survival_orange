@@ -30,6 +30,10 @@ It includes both the Orange workflow and the evaluation report.
 ![Workflow](screenshots/test_score.png)
 ![Workflow](screenshots/Roc_analysis.png)
 
+##  Report
+[📄 View Report (PDF)](orange_titanic_report.pdf)
+
+
 
 
 
