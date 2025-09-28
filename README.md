@@ -20,4 +20,6 @@ It includes both the Orange workflow and the evaluation report.
 3. Run the workflow → you’ll see results similar to the report.  
 
 ##  Screenshots
-Screenshots of workflow and results will be added here later.
+screenshots/workflow.png
+screenshots/confusion_matrix_knn.png
+
