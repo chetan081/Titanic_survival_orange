@@ -5,8 +5,8 @@ This project predicts Titanic passenger survival using **Orange3**, a visual mac
 It includes both the Orange workflow and the evaluation report.
 
 ## Files
-- `titanic-workflow.ows` → Orange workflow file (open in Orange3 to reproduce the pipeline)  
-- `titanic_report.html` → Test & Score report from Orange  
+- `titanic_survival.ows` → Orange workflow file (open in Orange3 to reproduce the pipeline)  
+- `orange_titanic_report.pdf` → Test & Score report from Orange  
 - `data/README.md` → Instructions to download the Titanic dataset from Kaggle  
 
 ##  Results
